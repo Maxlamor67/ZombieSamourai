@@ -1,0 +1,52 @@
+# Système spécifique
+.DS_Store
+Thumbs.db
+
+# Unity spécifiques
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+
+# Fichiers de cache Unity
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+
+# Exclusions du système de version Unity
+*.unitypackage
+*.prefab.meta
+*.asset.meta
+
+# TextMeshPro
+[Tt]extMesh[Pp]ro/
+
+# Autres fichiers de cache
+*.apk
+*.aab
+*.crashlytics/
+*.crash/
+*.dSYM
+
+# Visual Studio Code
+.vscode/
+
+# Rider
+.idea/
+*.sln.iml
+
+# Exclure les fichiers volumineux spécifiques
+[Ll]ibrary/PackageCache/
+
+# Collaborate
+.collab/
