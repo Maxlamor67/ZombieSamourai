@@ -42,7 +42,7 @@ Toute contribution est la bienvenue ! Si vous souhaitez proposer des améliorati
 
 ## Licence
 
-Ce projet est sous licence MIT. Vous pouvez l'utiliser et le modifier librement tout en mentionnant l'auteur original.
+Ce projet est sous licence Apache 2.0. Vous pouvez l'utiliser et le modifier librement tout en mentionnant l'auteur original.
 
 ---
 
